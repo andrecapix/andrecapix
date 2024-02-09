@@ -14,6 +14,11 @@
 | - Quality Control       | - Communication            |
 | - Customer Satisfaction | - Relationship Development |
 | - Structural Analysis   | - Conflict Resolution      |
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andrecapix/)
+
+
 <!--
 **andrecapix/andrecapix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
