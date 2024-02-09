@@ -1,6 +1,15 @@
-### Hi there 👋
-Hi there! I'm André Magalhães, with over 12 years of engineering experience. I hold a degree in mechanical engineering with an emphasis in aeronautical engineering from the Federal University of Minas Gerais (UFMG) and an MBA in Management and Engineering of Products and Services from the University of São Paulo (USP). With solid experience in managing multidisciplinary engineering projects, I'm passionate about transitioning into the world of front-end development."
+# Hi there! 👋 I'm André.
 
+### With over 12 years of engineering experience. I hold a degree in mechanical engineering with an emphasis in aeronautical engineering from the Federal University of Minas Gerais (UFMG) and an MBA in Management and Engineering of Products and Services from the University of São Paulo (USP). With solid experience in managing multidisciplinary engineering projects, I'm passionate about transitioning into the world of front-end development.
+
+
+|  Hard Skills            |  Soft Skills               |
+|-------------------------|----------------------------|
+| - Project Management    | - Leadership               |
+| - Project Control       | - Negotiation              |
+| - Quality Control       | - Communication            |
+| - Customer Satisfaction | - Relationship Development |
+| - Structural Analysis   | - Conflict Resolution      |
 <!--
 **andrecapix/andrecapix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
