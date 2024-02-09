@@ -43,8 +43,10 @@ This repository will showcase my journey as a front-end developer. You'll find:
 ## Feel free to:
 
 - Explore my projects
-- Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecapix/)
 - Reach out if you have any questions or suggestions
+- Connect with me on LinkedIn:
+
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecapix/)
 
 # 👯 Let's learn and build together!
 
