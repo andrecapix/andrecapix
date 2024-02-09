@@ -13,7 +13,7 @@
 <img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 
-
+## Skills
 
 |  Hard Skills            |  Soft Skills               |
 |-------------------------|----------------------------|
@@ -23,8 +23,9 @@
 | - Customer Satisfaction | - Relationship Development |
 | - Structural Analysis   | - Conflict Resolution      |
 
+## 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andrecapix/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecapix/)
 
 
 <!--
