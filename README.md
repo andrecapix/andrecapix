@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm André.
 
-### With over 12 years of engineering experience. I hold a degree in mechanical engineering with an emphasis in aeronautical engineering from the Federal University of Minas Gerais (UFMG) and an MBA in Management and Engineering of Products and Services from the University of São Paulo (USP). With solid experience in managing multidisciplinary engineering projects, I'm passionate about transitioning into the world of front-end development.
+### With over 12 years of engineering experience, I hold a degree in mechanical engineering with an emphasis in aeronautical engineering from the Federal University of Minas Gerais (UFMG) and an MBA in Management and Engineering of Products and Services from the University of São Paulo (USP). With solid experience in managing multidisciplinary engineering projects, I'm passionate about transitioning into the world of front-end development.
 
 
 |  Hard Skills            |  Soft Skills               |
