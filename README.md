@@ -2,7 +2,7 @@
 
 ### With over 12 years of engineering experience, I hold a degree in mechanical engineering with an emphasis in aeronautics from the Federal University of Minas Gerais (UFMG) and an MBA in Management and Engineering of Products and Services from the University of São Paulo (USP). With solid experience in managing multidisciplinary engineering projects, I'm passionate about transitioning into the world of front-end development.
 
-## Programming languages & Tools
+## Programming Languages & Tools
 
 <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -12,7 +12,7 @@
 <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-## What I Bring:
+## What I Bring
 
 - Strong analytical and problem-solving skills from engineering background
 - Experienced in managing complex projects and meeting deadlines
@@ -20,7 +20,7 @@
 - Adaptability and eagerness to learn new technologies
 - Passionate about creating user-friendly and visually appealing interfaces
 
-## This repository:
+## This Repository
 
 This repository will showcase my journey as a front-end developer. You'll find:
 
@@ -40,7 +40,7 @@ This repository will showcase my journey as a front-end developer. You'll find:
 | - Structural Analysis   | - Conflict Resolution      | - French - Beginner        |
 
 
-## Feel free to:
+## Feel Free To
 
 - Explore my projects
 - Reach out if you have any questions or suggestions
