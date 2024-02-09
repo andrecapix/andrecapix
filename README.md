@@ -20,7 +20,7 @@
 - Adaptability and eagerness to learn new technologies
 - Passionate about creating user-friendly and visually appealing interfaces
 
-### This repository:
+## This repository:
 
 This repository will showcase my journey as a front-end developer in transition. You'll find:
 
@@ -40,7 +40,7 @@ This repository will showcase my journey as a front-end developer in transition.
 | - Structural Analysis   | - Conflict Resolution      | - French - Beginner        |
 
 
-### Feel free to:
+## Feel free to:
 
 - Explore my projects
 - Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecapix/)
