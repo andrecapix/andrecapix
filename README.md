@@ -22,7 +22,7 @@
 
 ## This repository:
 
-This repository will showcase my journey as a front-end developer in transition. You'll find:
+This repository will showcase my journey as a front-end developer. You'll find:
 
 - Personal projects demonstrating my coding skills and learning progress
 - Contributions to open-source projects
