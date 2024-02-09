@@ -12,6 +12,22 @@
 <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
+## What I Bring:
+
+- Strong analytical and problem-solving skills from engineering background
+- Experienced in managing complex projects and meeting deadlines
+- Excellent communication and teamwork abilities
+- Adaptability and eagerness to learn new technologies
+- Passionate about creating user-friendly and visually appealing interfaces
+
+### This repository:
+
+This repository will showcase my journey as a front-end developer in transition. You'll find:
+
+- Personal projects demonstrating my coding skills and learning progress
+- Contributions to open-source projects
+- Resources and learning materials I find valuable
+
 
 ## Skills & Languages
 
@@ -23,10 +39,14 @@
 | - Customer Satisfaction | - Relationship Development | - German - Intermediary    |
 | - Structural Analysis   | - Conflict Resolution      | - French - Beginner        |
 
-## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecapix/)
+### Feel free to:
 
+- Explore my projects
+- Connect with me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecapix/)
+- Reach out if you have any questions or suggestions
+
+# 👯 Let's learn and build together!
 
 <!--
 **andrecapix/andrecapix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
